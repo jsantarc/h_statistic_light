@@ -1,7 +1,7 @@
 # h_statistic_light
 
 `h_statistic_light` is a lightweight Python implementation of the H-statistic, a metric used to quantify the interaction strength between features in machine learning models. This tool is particularly useful for interpreting complex models by identifying and measuring feature interactions.
-
+***note**: has not been tested with classification models
 ## Features
 
 - Efficient computation of the H-statistic for feature interaction analysis.
